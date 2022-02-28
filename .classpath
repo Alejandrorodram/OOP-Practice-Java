@@ -7,6 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="employeeUML"/>
-	<classpathentry kind="src" path="OpenClosedPrinciple"/>
+	<classpathentry kind="src" path="openClosedPrinciple"/>
+	<classpathentry kind="src" path="dependencyInversionPrinciple"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
