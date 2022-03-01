@@ -1,4 +1,4 @@
-package domain;
+package employeeUML.clients;
 
 public class Employee {
 	

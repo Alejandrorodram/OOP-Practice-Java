@@ -1,4 +1,4 @@
-package database;
+package employeeUML.database;
 
 public class DatabaseConnectionManager {
 	

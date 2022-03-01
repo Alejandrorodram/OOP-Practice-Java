@@ -1,4 +1,4 @@
-package clients;
+package dependencyInversionPrinciple.clients;
 
 import processes.GeneralManufacturingProcess;
 import processes.MobileManufactoringProcess;

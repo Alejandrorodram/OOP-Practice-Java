@@ -1,6 +1,6 @@
-package reporting;
+package employeeUML.reporting;
 
-import domain.Employee;
+import employeeUML.clients.Employee;
 
 public class EmployeeReportFormatter extends ReportFormatter {
 

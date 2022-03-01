@@ -1,7 +1,7 @@
-package domain.dao;
+package employeeUML.dao;
 
-import database.DatabaseConnectionManager;
-import domain.Employee;
+import employeeUML.clients.Employee;
+import employeeUML.database.DatabaseConnectionManager;
 
 public class EmployeeDAO {
 	

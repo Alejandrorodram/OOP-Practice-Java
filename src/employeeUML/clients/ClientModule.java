@@ -1,9 +1,8 @@
-package clients;
+package employeeUML.clients;
 
-import domain.Employee;
-import domain.dao.EmployeeDAO;
-import reporting.EmployeeReportFormatter;
-import reporting.FormatType;
+import employeeUML.dao.EmployeeDAO;
+import employeeUML.reporting.EmployeeReportFormatter;
+import employeeUML.reporting.FormatType;
 
 public class ClientModule {
 

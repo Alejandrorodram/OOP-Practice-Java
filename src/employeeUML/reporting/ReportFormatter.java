@@ -1,4 +1,4 @@
-package reporting;
+package employeeUML.reporting;
 
 public class ReportFormatter {
 	
