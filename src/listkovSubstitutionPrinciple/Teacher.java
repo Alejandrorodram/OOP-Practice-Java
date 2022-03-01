@@ -1,3 +1,4 @@
+package listkovSubstitutionPrinciple;
 
 public abstract class Teacher {
 	

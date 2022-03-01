@@ -1,4 +1,4 @@
-package processes;
+package dependencyInversionPrinciple.processes;
 
 public abstract class GeneralManufacturingProcess {
 

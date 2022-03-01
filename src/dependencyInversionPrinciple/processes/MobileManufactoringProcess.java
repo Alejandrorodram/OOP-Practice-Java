@@ -1,4 +1,4 @@
-package processes;
+package dependencyInversionPrinciple.processes;
 
 public class MobileManufactoringProcess extends GeneralManufacturingProcess{
 

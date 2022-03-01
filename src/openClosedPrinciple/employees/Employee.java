@@ -1,4 +1,4 @@
-package employees;
+package openClosedPrinciple.employees;
 
 public abstract class Employee {
 	

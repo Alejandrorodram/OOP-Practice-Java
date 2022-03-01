@@ -1,7 +1,7 @@
 package dependencyInversionPrinciple.clients;
 
-import processes.GeneralManufacturingProcess;
-import processes.MobileManufactoringProcess;
+import dependencyInversionPrinciple.processes.GeneralManufacturingProcess;
+import dependencyInversionPrinciple.processes.MobileManufactoringProcess;
 
 public class DeviceFactory {
 	
