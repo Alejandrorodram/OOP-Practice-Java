@@ -1,8 +1,6 @@
 package listkovSubstitutionPrinciple;
 
-public abstract class Teacher {
-	
-	public abstract void teach();
+public class SchoolStaff {
 	
 	private void makeAnnouncements() {
 		System.out.println("made announcements..");
